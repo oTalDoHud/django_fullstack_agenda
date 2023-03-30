@@ -1,0 +1,18 @@
+# Django stuff
+*.log
+*.pot
+*.pyc
+__pycache__/
+local_settings.py
+
+# VS Code stuff
+.vscode/
+*.code-workspace
+
+# SQLite database
+db.sqlite3
+
+# Other
+*.pyc
+*.pyo
+*.DS_Store
